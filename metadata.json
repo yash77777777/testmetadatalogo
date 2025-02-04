@@ -1,8 +1,8 @@
 
 {
-    "name": "mindgtc",
-    "symbol": "Mgtc",
-    "description": "mindgtc description",
+    "name": "Yashtest",
+    "symbol": "YT",
+    "description": "YASH description",
     "sellerFeeBasisPoints": 30,
     "image": "https://mindgtc28miliar.xyz/static/images/logo.png",
     "creators": null 
